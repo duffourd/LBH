@@ -1,0 +1,43 @@
+h1 {
+    color: #8DA89F
+}
+h2 {
+    color:  #8DA89F
+}
+p { 
+    text-align: "center" 
+}
+body { 
+    margin-left: 40mm; 
+}
+body { 
+    margin-right: 40mm;
+}
+body {
+    font-family: Optima, sans-serif;
+    }
+div { display: flex;
+    align-items: center;
+}
+body { background-color:black ;
+}
+p {
+    color: white;
+}
+h3{
+    color:#8DA89F;
+}
+.logo {
+    border: 3px solid black;
+    border-radius: 9999px;
+}
+footer { 
+    background-color:white ;
+}
+li { 
+    color:  white
+}
+div {
+    display: flex; 
+    flex-wrap: wrap;
+}
